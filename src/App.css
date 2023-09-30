@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(180, 194, 255);
+ 
+}
+
+.form {
+  width:20%;
+  margin: 18px  auto;
+  padding: 30px;
+  display: grid;
+  border: 2px solid gray;
+ 
+ 
+}
+.gst {
+  margin: 2px auto;
+
+}
+input {
+  background-color: white;
+  border: none;
+  padding: 3px;
+}
+
+.btn button {
+  margin: 8px;
+  padding: 10px;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.btn button:hover {
+  font-weight: bold;
+  background-color: green;
+  color: white;
+
+}
